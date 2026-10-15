@@ -2,8 +2,8 @@
 
 Practice for lecture 2. Open the notebooks and run the cells.
 
-- [![Scalars](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial2/blob/main/scalars.ipynb) `scalars.ipynb`
-- [![Functions & conditions](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial2/blob/main/function_condition.ipynb) `function_condition.ipynb`
+- <a href="https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial2/blob/main/scalars.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Scalars"/></a> `scalars.ipynb`
+- <a href="https://colab.research.google.com/github/BIU-python-medicine-2027/tutorial2/blob/main/function_condition.ipynb" target="_blank" rel="noopener noreferrer"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Functions & conditions"/></a> `function_condition.ipynb`
 
 ## How to work
 
