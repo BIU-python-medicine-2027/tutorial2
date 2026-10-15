@@ -12,12 +12,13 @@ Practice for lecture 2. Open the notebooks and run the cells.
 1. Open a notebook in Colab (buttons above; prefer Ctrl/⌘+click) or locally.
 2. Run the cells and experiment.
 
-No commit and no submission are required for this tutorial.
+## `math_utils.py` — practice for this tutorial
 
-## About `math_utils.py`
+Implement **only** `find_max_number(num1, num2, num3)` in `math_utils.py` (return the largest of the three numbers).
 
-If you see `math_utils.py` in this repo — **ignore it for Tutorial 2**.  
-The graded homework on `math_utils` (max / mean / std) is **PS2 – Simple Statistics** in Classroom 50.
+You can try ideas in the notebooks first, then copy the working function into `math_utils.py` and commit if you want to keep it.
+
+The full graded homework (**PS2**) builds on this file: there you will also implement `find_mean` and `find_mean_std`.
 
 ## Optional: keep your changes in Google Drive
 
