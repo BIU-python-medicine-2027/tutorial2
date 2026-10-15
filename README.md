@@ -18,7 +18,9 @@ Optional (after you try): <a href="https://colab.research.google.com/github/BIU-
 
 Implement **only** `find_max_number(num1, num2, num3)` in `math_utils.py` (return the largest of the three numbers, including when two values are tied).
 
-Commit to run autograding. Watch for ties such as `(3, 3, 1)` — using strict `>` can fail those cases.
+Commit to run autograding (10 cases, 1 point each: each position, negatives, floats, all equal, several ties). A failing case shows the input, expected value and a hint in the autograding **Details**. Watch for ties such as `(3, 3, 1)` — using strict `>` can fail those cases.
+
+`function_condition.ipynb` has a **self-check** cell that runs the same cases — run it before you copy your function into `math_utils.py`.
 
 The homework (**PS2**) builds on this file: there you will also implement `find_mean` and `find_mean_std`.
 
