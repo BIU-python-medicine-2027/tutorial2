@@ -14,13 +14,13 @@ Optional (after you try): <a href="https://colab.research.google.com/github/BIU-
 1. Open a notebook in Colab (buttons above; prefer Ctrl/⌘+click) or locally.
 2. Run the cells and experiment.
 
-## `math_utils.py` — practice for this tutorial
+## `math_utils.py` — graded in this tutorial
 
-Implement **only** `find_max_number(num1, num2, num3)` in `math_utils.py` (return the largest of the three numbers).
+Implement **only** `find_max_number(num1, num2, num3)` in `math_utils.py` (return the largest of the three numbers, including when two values are tied).
 
-You can try ideas in the notebooks first, then copy the working function into `math_utils.py` and commit if you want to keep it.
+Commit to run autograding. Watch for ties such as `(3, 3, 1)` — using strict `>` can fail those cases.
 
-The full graded homework (**PS2**) builds on this file: there you will also implement `find_mean` and `find_mean_std`.
+The homework (**PS2**) builds on this file: there you will also implement `find_mean` and `find_mean_std`.
 
 ## Optional: keep your changes in Google Drive
 
